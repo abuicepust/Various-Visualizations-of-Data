@@ -52,5 +52,4 @@ In this project we created database and some table in the database, then some du
 
 ## Video Link about This Project
 
- <strong> 
- - [You are requested to check this video out. This video showcases everything about this project.](https://drive.google.com/drive/folders/1MOPNXFG88pu4_AtiVDTe0EBSDqrQjngi?usp=sharing) </strong>
+ - <strong>[You are requested to check this video out. This video showcases everything about this project.](https://drive.google.com/drive/folders/1MOPNXFG88pu4_AtiVDTe0EBSDqrQjngi?usp=sharing)</strong> 
